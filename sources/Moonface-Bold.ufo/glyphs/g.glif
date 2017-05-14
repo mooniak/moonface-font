@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g" format="1">
+  <advance width="1000"/>
+  <unicode hex="0067"/>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2016-10-27 20:59:39 +0000</string>
+    </dict>
+  </lib>
+</glyph>
