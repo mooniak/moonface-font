@@ -24,6 +24,10 @@
 	<string>logo.mooniaktext.glif</string>
 	<key>logo.scribble</key>
 	<string>logo.scribble.glif</string>
+	<key>logo.scribblehand</key>
+	<string>logo.scribblehand.glif</string>
+	<key>logo.scribbletext</key>
+	<string>logo.scribbletext.glif</string>
 	<key>logo.sense</key>
 	<string>logo.sense.glif</string>
 	<key>m</key>

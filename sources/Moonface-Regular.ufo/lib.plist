@@ -63,11 +63,13 @@
 		<string>space</string>
 		<string>CR</string>
 		<string>.notdef</string>
+		<string>logo.scribblehand</string>
 		<string>logo.colombore</string>
-		<string>logo.scribble</string>
+		<string>logo.mooniak</string>
 		<string>logo.mooniakplanets</string>
 		<string>logo.mooniaktext</string>
-		<string>logo.mooniak</string>
+		<string>logo.scribble</string>
+		<string>logo.scribbletext</string>
 		<string>logo.sense</string>
 	</array>
 </dict>
