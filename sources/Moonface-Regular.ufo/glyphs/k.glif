@@ -23,10 +23,10 @@
       <point x="54" y="0" type="curve"/>
     </contour>
     <contour>
-      <point x="296" y="227" type="line"/>
+      <point x="296" y="233" type="line"/>
       <point x="296" y="338" type="line"/>
       <point x="170" y="337" type="line"/>
-      <point x="170" y="227" type="line"/>
+      <point x="170" y="233" type="line"/>
     </contour>
     <contour>
       <point x="462" y="476" type="curve"/>
@@ -42,7 +42,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-14 18:17:13 +0000</string>
+      <string>2017-05-14 19:10:10 +0000</string>
     </dict>
   </lib>
 </glyph>
