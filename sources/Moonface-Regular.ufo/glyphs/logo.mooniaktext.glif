@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logo.mooniaktext" format="1">
+  <advance width="3900"/>
+  <unicode hex="E001"/>
+  <outline>
+    <component base="m"/>
+    <component base="o" xOffset="864"/>
+    <component base="o" xOffset="1425"/>
+    <component base="n" xOffset="1986"/>
+    <component base="i" xOffset="2562"/>
+    <component base="a" xOffset="2840"/>
+    <component base="k" xOffset="3353"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>8</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-05-14 17:17:23 +0000</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

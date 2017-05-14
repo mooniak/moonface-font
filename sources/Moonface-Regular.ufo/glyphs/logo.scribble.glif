@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="logo.scribble" format="1">
   <advance width="2695"/>
+  <unicode hex="E004"/>
   <outline>
     <contour>
       <point x="1331" y="13"/>
@@ -264,7 +265,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-07 14:47:38 +0000</string>
+      <string>2017-05-14 17:17:42 +0000</string>
     </dict>
   </lib>
 </glyph>
