@@ -30,8 +30,12 @@
 	<string>logo.scribbletext.glif</string>
 	<key>logo.sense</key>
 	<string>logo.sense.glif</string>
+	<key>logo.ulkaa</key>
+	<string>logo.ulkaa.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
+	<key>mush</key>
+	<string>mush.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
 	<key>o</key>

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="logo.mooniaktext" format="1">
-  <advance width="3829"/>
+  <advance width="3790"/>
   <unicode hex="E001"/>
   <outline>
     <component base="m"/>
-    <component base="o" xOffset="856"/>
-    <component base="o" xOffset="1417"/>
-    <component base="n" xOffset="1978"/>
-    <component base="i" xOffset="2524"/>
-    <component base="a" xOffset="2779"/>
-    <component base="k" xOffset="3294"/>
+    <component base="o" xOffset="841"/>
+    <component base="o" xOffset="1402"/>
+    <component base="n" xOffset="1963"/>
+    <component base="i" xOffset="2509"/>
+    <component base="a" xOffset="2764"/>
+    <component base="k" xOffset="3269"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
       <integer>8</integer>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-14 19:09:50 +0000</string>
+      <string>2017-05-30 09:31:31 +0000</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>
