@@ -2,18 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>UFOFormat</key>
-	<integer>2</integer>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
-	<key>com.schriftgestaltung.fontMasterID</key>
-	<string>0EF112A6-69F8-47E9-9D72-C545F6D6A613</string>
-	<key>com.schriftgestaltung.glyphOrder</key>
-	<false/>
-	<key>com.schriftgestaltung.useNiceNames</key>
-	<false/>
-	<key>org.unifiedfontobject.normalizer.modTimes</key>
-	<string>version: 0a1
+	<key>com.schriftgestaltung.font.userData</key>
+	<dict>
+		<key>org.unifiedfontobject.normalizer.modTimes</key>
+		<string>version: 0a1
 1486008977.0 fontinfo.plist
 1486008977.0 glyphs/B_.glif
 1486008977.0 glyphs/F_.glif
@@ -48,26 +42,44 @@
 1486008977.0 glyphs/y.glif
 1486008977.0 glyphs/z.glif
 1486008977.0 metainfo.plist</string>
+	</dict>
+	<key>com.schriftgestaltung.fontMasterID</key>
+	<string>0EF112A6-69F8-47E9-9D72-C545F6D6A613</string>
+	<key>com.schriftgestaltung.glyphOrder</key>
+	<false/>
+	<key>com.schriftgestaltung.useNiceNames</key>
+	<false/>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>a</string>
+		<string>b</string>
+		<string>d</string>
 		<string>e</string>
+		<string>g</string>
+		<string>h</string>
 		<string>i</string>
 		<string>k</string>
+		<string>l</string>
 		<string>m</string>
 		<string>n</string>
 		<string>o</string>
+		<string>p</string>
 		<string>r</string>
 		<string>s</string>
 		<string>t</string>
+		<string>u</string>
+		<string>x</string>
+		<string>y</string>
+		<string>hyphen</string>
 		<string>space</string>
 		<string>CR</string>
 		<string>.notdef</string>
-		<string>logo.ulkaa</string>
+		<string>logo.eventer</string>
 		<string>logo.scribblehand</string>
 		<string>mush</string>
+		<string>logo.ulkaa</string>
+		<string>logo.textual</string>
 		<string>logo.colombore</string>
-		<string>logo.mooniak</string>
 		<string>logo.mooniakplanets</string>
 		<string>logo.mooniaktext</string>
 		<string>logo.scribble</string>

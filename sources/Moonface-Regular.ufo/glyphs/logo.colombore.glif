@@ -30,12 +30,12 @@
       <point x="507" y="18" type="curve"/>
       <point x="491" y="95" type="line"/>
       <point x="470" y="88"/>
-      <point x="424" y="77"/>
-      <point x="390" y="77" type="curve" smooth="yes"/>
+      <point x="434" y="77"/>
+      <point x="395" y="77" type="curve" smooth="yes"/>
       <point x="294" y="77"/>
       <point x="253" y="161"/>
-      <point x="253" y="226" type="curve" smooth="yes"/>
-      <point x="253" y="291"/>
+      <point x="253" y="231" type="curve" smooth="yes"/>
+      <point x="253" y="298"/>
       <point x="290" y="355"/>
       <point x="350" y="355" type="curve" smooth="yes"/>
       <point x="390" y="355"/>
@@ -45,13 +45,13 @@
       <point x="504" y="273" type="line"/>
       <point x="505" y="405" type="line"/>
       <point x="505" y="405"/>
-      <point x="460" y="451"/>
+      <point x="455" y="451"/>
       <point x="350" y="451" type="curve" smooth="yes"/>
-      <point x="196" y="451"/>
+      <point x="197" y="451"/>
       <point x="100" y="342"/>
       <point x="100" y="204" type="curve" smooth="yes"/>
       <point x="100" y="87"/>
-      <point x="167" y="-21"/>
+      <point x="173" y="-21"/>
       <point x="348" y="-21" type="curve" smooth="yes"/>
     </contour>
     <contour>
@@ -322,7 +322,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-05-22 19:28:29 +0000</string>
+      <string>2017-06-03 09:46:01 +0000</string>
     </dict>
   </lib>
 </glyph>

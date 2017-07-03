@@ -8,16 +8,28 @@
 	<string>C_R_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
+	<key>b</key>
+	<string>b.glif</string>
+	<key>d</key>
+	<string>d.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
+	<key>g</key>
+	<string>g.glif</string>
+	<key>h</key>
+	<string>h.glif</string>
+	<key>hyphen</key>
+	<string>hyphen.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
 	<key>k</key>
 	<string>k.glif</string>
+	<key>l</key>
+	<string>l.glif</string>
 	<key>logo.colombore</key>
 	<string>logo.colombore.glif</string>
-	<key>logo.mooniak</key>
-	<string>logo.mooniak.glif</string>
+	<key>logo.eventer</key>
+	<string>logo.eventer.glif</string>
 	<key>logo.mooniakplanets</key>
 	<string>logo.mooniakplanets.glif</string>
 	<key>logo.mooniaktext</key>
@@ -30,6 +42,8 @@
 	<string>logo.scribbletext.glif</string>
 	<key>logo.sense</key>
 	<string>logo.sense.glif</string>
+	<key>logo.textual</key>
+	<string>logo.textual.glif</string>
 	<key>logo.ulkaa</key>
 	<string>logo.ulkaa.glif</string>
 	<key>m</key>
@@ -40,6 +54,8 @@
 	<string>n.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
+	<key>p</key>
+	<string>p.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
 	<key>s</key>
@@ -48,5 +64,11 @@
 	<string>space.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
+	<key>u</key>
+	<string>u.glif</string>
+	<key>x</key>
+	<string>x.glif</string>
+	<key>y</key>
+	<string>y.glif</string>
 </dict>
 </plist>
