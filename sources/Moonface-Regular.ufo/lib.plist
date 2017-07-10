@@ -51,6 +51,7 @@
 	<false/>
 	<key>public.glyphOrder</key>
 	<array>
+		<string>W</string>
 		<string>a</string>
 		<string>b</string>
 		<string>d</string>
@@ -68,6 +69,7 @@
 		<string>s</string>
 		<string>t</string>
 		<string>u</string>
+		<string>v</string>
 		<string>x</string>
 		<string>y</string>
 		<string>hyphen</string>
@@ -75,10 +77,11 @@
 		<string>CR</string>
 		<string>.notdef</string>
 		<string>logo.eventer</string>
-		<string>logo.scribblehand</string>
-		<string>mush</string>
+		<string>logo.mooniak.trilingual</string>
 		<string>logo.ulkaa</string>
 		<string>logo.textual</string>
+		<string>mush</string>
+		<string>logo.scribblehand</string>
 		<string>logo.colombore</string>
 		<string>logo.mooniakplanets</string>
 		<string>logo.mooniaktext</string>
