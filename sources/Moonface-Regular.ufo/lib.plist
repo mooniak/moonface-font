@@ -54,8 +54,10 @@
 		<string>W</string>
 		<string>a</string>
 		<string>b</string>
+		<string>c</string>
 		<string>d</string>
 		<string>e</string>
+		<string>f</string>
 		<string>g</string>
 		<string>h</string>
 		<string>i</string>
@@ -77,9 +79,9 @@
 		<string>CR</string>
 		<string>.notdef</string>
 		<string>logo.eventer</string>
-		<string>logo.mooniak.trilingual</string>
-		<string>logo.ulkaa</string>
 		<string>logo.textual</string>
+		<string>logo.ulkaa</string>
+		<string>logo.mooniak.trilingual</string>
 		<string>mush</string>
 		<string>logo.scribblehand</string>
 		<string>logo.colombore</string>
