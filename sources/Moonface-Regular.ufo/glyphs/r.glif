@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="1">
-  <advance width="366"/>
+  <advance width="358"/>
   <unicode hex="0072"/>
   <outline>
     <contour>
@@ -19,15 +19,15 @@
       <point x="334" y="347" type="curve"/>
       <point x="358" y="474" type="line"/>
       <point x="262" y="507"/>
-      <point x="193" y="458"/>
-      <point x="152" y="407" type="curve"/>
+      <point x="193" y="453"/>
+      <point x="152" y="402" type="curve"/>
       <point x="163" y="277" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-07-03 16:12:54 +0000</string>
+      <string>2017-08-05 14:57:28 +0000</string>
       <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
       <string>=n</string>
     </dict>

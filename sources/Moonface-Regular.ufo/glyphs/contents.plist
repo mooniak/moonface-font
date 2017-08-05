@@ -6,8 +6,6 @@
 	<string>_notdef.glif</string>
 	<key>CR</key>
 	<string>C_R_.glif</string>
-	<key>W</key>
-	<string>W_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
 	<key>b</key>
@@ -36,12 +34,16 @@
 	<string>logo.colombore.glif</string>
 	<key>logo.eventer</key>
 	<string>logo.eventer.glif</string>
-	<key>logo.mooniak.trilingual</key>
-	<string>logo.mooniak.trilingual.glif</string>
+	<key>logo.mooniak</key>
+	<string>logo.mooniak.glif</string>
+	<key>logo.mooniak.en</key>
+	<string>logo.mooniak.en.glif</string>
+	<key>logo.mooniak.sin</key>
+	<string>logo.mooniak.sin.glif</string>
+	<key>logo.mooniak.tml</key>
+	<string>logo.mooniak.tml.glif</string>
 	<key>logo.mooniakplanets</key>
 	<string>logo.mooniakplanets.glif</string>
-	<key>logo.mooniaktext</key>
-	<string>logo.mooniaktext.glif</string>
 	<key>logo.scribble</key>
 	<string>logo.scribble.glif</string>
 	<key>logo.scribblehand</key>
@@ -76,6 +78,8 @@
 	<string>u.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
+	<key>w</key>
+	<string>w.glif</string>
 	<key>x</key>
 	<string>x.glif</string>
 	<key>y</key>

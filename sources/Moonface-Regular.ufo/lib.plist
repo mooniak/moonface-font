@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>UFOFormat</key>
+	<integer>2</integer>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
 	<key>com.schriftgestaltung.font.userData</key>
@@ -51,7 +53,6 @@
 	<false/>
 	<key>public.glyphOrder</key>
 	<array>
-		<string>W</string>
 		<string>a</string>
 		<string>b</string>
 		<string>c</string>
@@ -72,6 +73,7 @@
 		<string>t</string>
 		<string>u</string>
 		<string>v</string>
+		<string>w</string>
 		<string>x</string>
 		<string>y</string>
 		<string>hyphen</string>
@@ -80,13 +82,15 @@
 		<string>.notdef</string>
 		<string>logo.eventer</string>
 		<string>logo.textual</string>
-		<string>logo.ulkaa</string>
-		<string>logo.mooniak.trilingual</string>
 		<string>mush</string>
+		<string>logo.ulkaa</string>
 		<string>logo.scribblehand</string>
+		<string>logo.mooniak</string>
+		<string>logo.mooniak.tml</string>
+		<string>logo.mooniak.sin</string>
+		<string>logo.mooniak.en</string>
 		<string>logo.colombore</string>
 		<string>logo.mooniakplanets</string>
-		<string>logo.mooniaktext</string>
 		<string>logo.scribble</string>
 		<string>logo.scribbletext</string>
 		<string>logo.sense</string>

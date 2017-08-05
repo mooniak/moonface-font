@@ -32,8 +32,8 @@
       <point x="168" y="394" type="curve"/>
       <point x="158" y="406" type="line"/>
       <point x="157" y="483" type="line"/>
-      <point x="48" y="483" type="line"/>
-      <point x="48" y="318"/>
+      <point x="48" y="473" type="line"/>
+      <point x="48" y="308"/>
       <point x="49" y="161"/>
       <point x="51" y="0" type="curve"/>
     </contour>
@@ -63,7 +63,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-07-02 12:23:17 +0000</string>
+      <string>2017-07-31 15:58:05 +0000</string>
       <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
       <string>=n</string>
     </dict>
