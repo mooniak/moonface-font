@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tml_Anusvara" format="1">
+	<unicode hex="0B82"/>
+	<advance width="1"/>
+	<outline>
+		<contour>
+			<point x="-105" y="702" type="curve" smooth="yes"/>
+			<point x="-105" y="662"/>
+			<point x="-77" y="596"/>
+			<point x="0" y="596" type="curve" smooth="yes"/>
+			<point x="41" y="596"/>
+			<point x="106" y="626"/>
+			<point x="106" y="702" type="curve" smooth="yes"/>
+			<point x="106" y="722"/>
+			<point x="100" y="741"/>
+			<point x="89" y="758" type="curve" smooth="yes"/>
+			<point x="68" y="791"/>
+			<point x="39" y="807"/>
+			<point x="0" y="807" type="curve" smooth="yes"/>
+			<point x="-41" y="807"/>
+			<point x="-105" y="778"/>
+		</contour>
+		<contour>
+			<point x="62" y="702" type="curve" smooth="yes"/>
+			<point x="62" y="693"/>
+			<point x="60" y="683"/>
+			<point x="55" y="674" type="curve" smooth="yes"/>
+			<point x="43" y="651"/>
+			<point x="24" y="640"/>
+			<point x="-2" y="640" type="curve" smooth="yes"/>
+			<point x="-11" y="640"/>
+			<point x="-20" y="642"/>
+			<point x="-29" y="647" type="curve"/>
+			<point x="-51" y="658"/>
+			<point x="-62" y="677"/>
+			<point x="-62" y="702" type="curve" smooth="yes"/>
+			<point x="-62" y="711"/>
+			<point x="-60" y="719"/>
+			<point x="-57" y="728" type="curve"/>
+			<point x="-47" y="751"/>
+			<point x="-29" y="763"/>
+			<point x="-2" y="763" type="curve" smooth="yes"/>
+			<point x="7" y="763"/>
+			<point x="17" y="761"/>
+			<point x="26" y="757" type="curve" smooth="yes"/>
+			<point x="50" y="747"/>
+			<point x="62" y="729"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-08-09 10:52:40 +0000</string>
+		</dict>
+	</lib>
+	<note>
+		tml_Anusvara
+	</note>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tml_MatraI" format="1">
+	<unicode hex="0BBF"/>
+	<advance width="600"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-08-07 23:30:13 +0000</string>
+		</dict>
+	</lib>
+	<note>
+		tml_MatraI
+	</note>
+</glyph>

@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="1">
-  <advance width="278"/>
-  <unicode hex="0069"/>
-  <outline>
-    <contour>
-      <point x="56.5127" y="631.141" type="curve" smooth="yes"/>
-      <point x="56.5127" y="681.257"/>
-      <point x="96.6045" y="721.351"/>
-      <point x="146.722" y="721.351" type="curve" smooth="yes"/>
-      <point x="196.838" y="721.351"/>
-      <point x="236.931" y="681.257"/>
-      <point x="236.931" y="631.141" type="curve" smooth="yes"/>
-      <point x="236.931" y="581.024"/>
-      <point x="196.838" y="540.932"/>
-      <point x="146.722" y="540.932" type="curve" smooth="yes"/>
-      <point x="96.6045" y="540.932"/>
-      <point x="56.5127" y="581.024"/>
-    </contour>
-    <contour>
-      <point x="69" y="479" type="curve"/>
-      <point x="223" y="479" type="line"/>
-      <point x="218.494" y="312.857"/>
-      <point x="227.532" y="72.8984"/>
-      <point x="232" y="0" type="curve"/>
-      <point x="73" y="0" type="line"/>
-      <point x="72.7393" y="158.44"/>
-      <point x="72.3975" y="317.948"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-01-30 20:51:42 +0000</string>
-    </dict>
-  </lib>
+	<unicode hex="0069"/>
+	<advance width="252"/>
+	<outline>
+		<contour>
+			<point x="70" y="0" type="curve"/>
+			<point x="187" y="0" type="line"/>
+			<point x="187" y="73"/>
+			<point x="186" y="313"/>
+			<point x="183" y="479" type="curve"/>
+			<point x="66" y="474" type="line"/>
+			<point x="68" y="308"/>
+			<point x="70" y="158"/>
+		</contour>
+		<contour>
+			<point x="126" y="549" type="curve" smooth="yes"/>
+			<point x="168" y="549"/>
+			<point x="200" y="582"/>
+			<point x="200" y="623" type="curve" smooth="yes"/>
+			<point x="200" y="665"/>
+			<point x="168" y="698"/>
+			<point x="126" y="698" type="curve" smooth="yes"/>
+			<point x="84" y="698"/>
+			<point x="52" y="665"/>
+			<point x="52" y="623" type="curve" smooth="yes"/>
+			<point x="52" y="582"/>
+			<point x="84" y="549"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-08-07 12:01:36 +0000</string>
+		</dict>
+	</lib>
 </glyph>

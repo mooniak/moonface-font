@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tml_MatraIi.alt3" format="1">
+	<outline>
+		<contour>
+			<point x="89" y="636" type="curve" smooth="yes"/>
+			<point x="100" y="636"/>
+			<point x="110" y="639"/>
+			<point x="120" y="645" type="curve" smooth="yes"/>
+			<point x="147" y="662"/>
+			<point x="160" y="693"/>
+			<point x="160" y="738" type="curve" smooth="yes"/>
+			<point x="160" y="757"/>
+			<point x="158" y="774"/>
+			<point x="153" y="791" type="curve"/>
+			<point x="142" y="834"/>
+			<point x="119" y="856"/>
+			<point x="85" y="856" type="curve" smooth="yes"/>
+			<point x="71" y="856"/>
+			<point x="59" y="851"/>
+			<point x="48" y="842" type="curve" smooth="yes"/>
+			<point x="24" y="821"/>
+			<point x="12" y="786"/>
+			<point x="12" y="738" type="curve" smooth="yes"/>
+			<point x="12" y="721"/>
+			<point x="14" y="706"/>
+			<point x="18" y="692" type="curve"/>
+			<point x="30" y="655"/>
+			<point x="54" y="636"/>
+		</contour>
+		<contour>
+			<point x="-159" y="691" type="curve" smooth="yes"/>
+			<point x="-159" y="800"/>
+			<point x="-90" y="903"/>
+			<point x="65" y="902" type="curve" smooth="yes"/>
+			<point x="90" y="901"/>
+			<point x="112" y="897"/>
+			<point x="131" y="888" type="curve" smooth="yes"/>
+			<point x="182" y="864"/>
+			<point x="207" y="814"/>
+			<point x="207" y="738" type="curve" smooth="yes"/>
+			<point x="207" y="667"/>
+			<point x="177" y="590"/>
+			<point x="89" y="590" type="curve" smooth="yes"/>
+			<point x="70" y="590"/>
+			<point x="53" y="594"/>
+			<point x="36" y="601" type="curve"/>
+			<point x="-11" y="623"/>
+			<point x="-35" y="668"/>
+			<point x="-35" y="737" type="curve" smooth="yes"/>
+			<point x="-35" y="780"/>
+			<point x="-25" y="815"/>
+			<point x="-4" y="843" type="curve"/>
+			<point x="-8" y="842"/>
+			<point x="-12" y="840"/>
+			<point x="-17" y="838" type="curve" smooth="yes"/>
+			<point x="-78" y="812"/>
+			<point x="-109" y="762"/>
+			<point x="-109" y="688" type="curve" smooth="yes"/>
+			<point x="-109" y="603"/>
+			<point x="-61" y="571"/>
+			<point x="0" y="543" type="curve"/>
+			<point x="-30" y="515" type="line"/>
+			<point x="-31" y="515" type="line"/>
+			<point x="-56" y="523"/>
+			<point x="-76" y="532"/>
+			<point x="-107" y="557" type="curve"/>
+			<point x="-139" y="581"/>
+			<point x="-159" y="628"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-08-09 10:52:40 +0000</string>
+		</dict>
+	</lib>
+	<note>
+		tml_MatraIi.alt3
+	</note>
+</glyph>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tml_PUu" format="1">
+	<advance width="689"/>
+	<outline>
+		<contour>
+			<point x="85" y="560" type="line"/>
+			<point x="138" y="560" type="line"/>
+			<point x="138" y="49" type="line"/>
+			<point x="483" y="49" type="line"/>
+			<point x="483" y="560" type="line"/>
+			<point x="535" y="560" type="line"/>
+			<point x="535" y="52" type="line"/>
+			<point x="542" y="54"/>
+			<point x="549" y="55"/>
+			<point x="558" y="55" type="curve" smooth="yes"/>
+			<point x="580" y="55"/>
+			<point x="600" y="49"/>
+			<point x="619" y="37" type="curve"/>
+			<point x="658" y="10"/>
+			<point x="678" y="-33"/>
+			<point x="678" y="-94" type="curve" smooth="yes"/>
+			<point x="677" y="-219"/>
+			<point x="556" y="-343"/>
+			<point x="355" y="-343" type="curve" smooth="yes"/>
+			<point x="202" y="-343"/>
+			<point x="49" y="-286"/>
+			<point x="49" y="-179" type="curve" smooth="yes"/>
+			<point x="49" y="-162"/>
+			<point x="53" y="-147"/>
+			<point x="60" y="-134" type="curve" smooth="yes"/>
+			<point x="79" y="-101"/>
+			<point x="114" y="-85"/>
+			<point x="166" y="-85" type="curve" smooth="yes"/>
+			<point x="282" y="-85" type="line"/>
+			<point x="282" y="-134" type="line"/>
+			<point x="169" y="-134" type="line" smooth="yes"/>
+			<point x="124" y="-135"/>
+			<point x="101" y="-150"/>
+			<point x="100" y="-179" type="curve"/>
+			<point x="101" y="-200"/>
+			<point x="114" y="-221"/>
+			<point x="140" y="-240" type="curve" smooth="yes"/>
+			<point x="190" y="-276"/>
+			<point x="262" y="-294"/>
+			<point x="355" y="-294" type="curve" smooth="yes"/>
+			<point x="499" y="-294"/>
+			<point x="628" y="-218"/>
+			<point x="628" y="-93" type="curve" smooth="yes"/>
+			<point x="628" y="-56"/>
+			<point x="617" y="8"/>
+			<point x="553" y="8" type="curve" smooth="yes"/>
+			<point x="548" y="8"/>
+			<point x="542" y="7"/>
+			<point x="535" y="4" type="curve"/>
+			<point x="535" y="1" type="line"/>
+			<point x="531" y="1" type="line"/>
+			<point x="520" y="-8"/>
+			<point x="515" y="-24"/>
+			<point x="514" y="-47" type="curve"/>
+			<point x="514" y="-138" type="line"/>
+			<point x="464" y="-138" type="line"/>
+			<point x="464" y="1" type="line"/>
+			<point x="85" y="1" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-08-09 10:52:40 +0000</string>
+		</dict>
+	</lib>
+	<note>
+		tml_PUu
+	</note>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tml_Ee" format="1">
+	<unicode hex="0B8F"/>
+	<advance width="727"/>
+	<outline>
+		<contour>
+			<point x="468" y="59" type="line"/>
+			<point x="585" y="0" type="line"/>
+			<point x="339" y="-201" type="line"/>
+			<point x="267" y="-127" type="line"/>
+		</contour>
+		<component base="tml_E"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-08-26 22:06:29 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>tml_E</string>
+		</dict>
+	</lib>
+	<note>
+		tml_Ee
+	</note>
+</glyph>

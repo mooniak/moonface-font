@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tml_Va" format="1">
+	<unicode hex="0BB5"/>
+	<advance width="600"/>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-09-05 07:17:53 +0000</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=tml_Pa</string>
+		</dict>
+	</lib>
+	<note>
+		tml_Va
+	</note>
+</glyph>

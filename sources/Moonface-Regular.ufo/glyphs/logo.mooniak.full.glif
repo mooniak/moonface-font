@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logo.mooniak.full" format="1">
+	<advance width="3736"/>
+	<outline>
+		<component base="logo.mooniak.sin" xOffset="7" yOffset="-882"/>
+		<component base="logo.mooniak.tml" xOffset="68" yOffset="-1792"/>
+		<component base="logo.mooniak.en" xOffset="25"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>logo.mooniak.sin</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>logo.mooniak.tml</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>logo.mooniak.en</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-06-19 04:20:40 +0000</string>
+		</dict>
+	</lib>
+</glyph>

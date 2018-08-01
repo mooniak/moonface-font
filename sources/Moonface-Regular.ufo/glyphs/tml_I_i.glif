@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tml_Ii" format="1">
+	<unicode hex="0B88"/>
+	<advance width="637"/>
+	<outline>
+		<contour>
+			<point x="241" y="160" type="curve" smooth="yes"/>
+			<point x="270" y="160"/>
+			<point x="294" y="184"/>
+			<point x="294" y="214" type="curve" smooth="yes"/>
+			<point x="294" y="243"/>
+			<point x="270" y="267"/>
+			<point x="241" y="267" type="curve" smooth="yes"/>
+			<point x="211" y="267"/>
+			<point x="187" y="243"/>
+			<point x="187" y="214" type="curve" smooth="yes"/>
+			<point x="187" y="184"/>
+			<point x="211" y="160"/>
+		</contour>
+		<contour>
+			<point x="501" y="160" type="curve" smooth="yes"/>
+			<point x="530" y="160"/>
+			<point x="554" y="184"/>
+			<point x="554" y="214" type="curve" smooth="yes"/>
+			<point x="554" y="243"/>
+			<point x="530" y="267"/>
+			<point x="501" y="267" type="curve" smooth="yes"/>
+			<point x="471" y="267"/>
+			<point x="447" y="243"/>
+			<point x="447" y="214" type="curve" smooth="yes"/>
+			<point x="447" y="184"/>
+			<point x="471" y="160"/>
+		</contour>
+		<component base="tml_Ra.alt"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2017-08-09 15:37:24 +0000</string>
+		</dict>
+	</lib>
+	<note>
+		tml_Ii
+	</note>
+</glyph>
