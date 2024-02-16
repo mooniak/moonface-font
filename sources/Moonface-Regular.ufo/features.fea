@@ -1,8 +1,0 @@
-# Prefix: Languagesystems
-# automatic
-languagesystem DFLT dflt;
-
-feature aalt {
-sub [ less m o o n i a k greater] by logo.mooniak;
-} aalt;
-
