@@ -6,7 +6,7 @@ DisplayStrings = (
 
 මනයැක
 mooකනයකniak",
-"මන/i-sign-sinhala යැක
+"මනයැක
 /mooniak.sinh 
 
 /mooniak.tri 
@@ -14,7 +14,10 @@ mooකනයකniak",
 /ma_uuMatra-tamil nநmி/na_iMatra-tamil inoயக்a
 /na_iMatra-tamil/mooniak.taml",
 "/ma_uuMatra-tamil நிiயக்ந
-/mooniak.taml"
+/mooniak.taml",
+"ැ",
+"/mooniak.sinh",
+"/n-i-sinhala"
 );
 date = "2024-02-02 12:45:14 +0000";
 familyName = Moonface;
@@ -29,8 +32,16 @@ name = Languagesystems;
 );
 features = (
 {
-code = "sub ma-tamil uuMatra-tamil by ma_uuMatra-tamil;
-sub na-tamil iMatra-tamil by na_iMatra-tamil;";
+code = "sub na-sinhala i-sign-sinhala by n-i-sinhala;
+sub ka-sinhala al-sign-sinhala by ka-al-sinhala;";
+tag = abvs;
+},
+{
+code = "sub ma-sinhala uu-sign-sinhala by m-uu-sinhala;
+
+sub ma-tamil uuMatra-tamil by ma_uuMatra-tamil;
+sub na-tamil iMatra-tamil by na_iMatra-tamil;
+";
 tag = blws;
 }
 );
@@ -6089,88 +6100,8 @@ unicode = 3530;
 {
 category = Mark;
 glyphname = "i-sign-sinhala";
-lastChange = "2025-11-09 21:50:59 +0000";
+lastChange = "2025-11-10 04:54:06 +0000";
 layers = (
-{
-anchors = (
-{
-name = _iSign;
-pos = (244,500);
-}
-);
-associatedMasterId = m01;
-background = {
-shapes = (
-{
-closed = 1;
-nodes = (
-(438,445,o),
-(455,481,o),
-(455,526,cs),
-(455,618,o),
-(394,699,o),
-(246,699,cs),
-(82,699,o),
-(39,600,o),
-(39,537,cs),
-(39,484,o),
-(53,446,o),
-(86,405,c),
-(174,435,l),
-(158,459,o),
-(141,490,o),
-(141,521,cs),
-(141,558,o),
-(164,599,o),
-(244,599,cs),
-(311,599,o),
-(353,571,o),
-(353,521,cs),
-(353,491,o),
-(336,459,o),
-(320,435,c),
-(400,386,l)
-);
-}
-);
-};
-layerId = "744D2CBE-1E5F-400D-B157-F26AB5733F24";
-name = "10 Nov 25 at 03:19";
-shapes = (
-{
-closed = 1;
-nodes = (
-(478,445,o),
-(495,481,o),
-(495,526,cs),
-(495,618,o),
-(434,699,o),
-(286,699,cs),
-(122,699,o),
-(79,600,o),
-(79,537,cs),
-(79,484,o),
-(93,446,o),
-(126,405,c),
-(214,435,l),
-(198,459,o),
-(181,490,o),
-(181,521,cs),
-(181,558,o),
-(204,599,o),
-(284,599,cs),
-(351,599,o),
-(393,571,o),
-(393,521,cs),
-(393,491,o),
-(376,459,o),
-(360,435,c),
-(440,386,l)
-);
-}
-);
-width = 494;
-},
 {
 anchors = (
 {
@@ -6214,7 +6145,6 @@ nodes = (
 );
 };
 layerId = m01;
-name = Regular;
 shapes = (
 {
 closed = 1;
@@ -6243,10 +6173,92 @@ nodes = (
 }
 );
 width = 494;
+},
+{
+anchors = (
+{
+name = _iSign;
+pos = (244,500);
 }
 );
+associatedMasterId = m01;
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(438,445,o),
+(455,481,o),
+(455,526,cs),
+(455,618,o),
+(394,699,o),
+(246,699,cs),
+(82,699,o),
+(39,600,o),
+(39,537,cs),
+(39,484,o),
+(53,446,o),
+(86,405,c),
+(174,435,l),
+(158,459,o),
+(141,490,o),
+(141,521,cs),
+(141,558,o),
+(164,599,o),
+(244,599,cs),
+(311,599,o),
+(353,571,o),
+(353,521,cs),
+(353,491,o),
+(336,459,o),
+(320,435,c),
+(400,386,l)
+);
+}
+);
+};
+layerId = "F4B63F0C-7D10-4116-92D0-BEC3EE048AFC";
+name = "10 Nov 25 at 10:23";
+shapes = (
+{
+closed = 1;
+nodes = (
+(478,445,o),
+(495,481,o),
+(495,526,cs),
+(495,618,o),
+(434,699,o),
+(286,699,cs),
+(122,699,o),
+(79,600,o),
+(79,537,cs),
+(79,484,o),
+(93,446,o),
+(126,405,c),
+(214,435,l),
+(198,459,o),
+(181,490,o),
+(181,521,cs),
+(181,558,o),
+(204,599,o),
+(284,599,cs),
+(351,599,o),
+(393,571,o),
+(393,521,cs),
+(393,491,o),
+(376,459,o),
+(360,435,c),
+(440,386,l)
+);
+}
+);
+width = 494;
+}
+);
+production = uni0DD2;
 script = sinhala;
 subCategory = Nonspacing;
+unicode = 3538;
 },
 {
 category = Mark;
@@ -6356,7 +6368,7 @@ unicode = 3542;
 {
 category = Mark;
 glyphname = "ae-sign-sinhala";
-lastChange = "2025-11-09 20:27:08 +0000";
+lastChange = "2025-11-10 04:51:18 +0000";
 layers = (
 {
 associatedMasterId = m01;
@@ -6500,7 +6512,7 @@ width = 323;
 );
 production = uni0DD0;
 script = sinhala;
-subCategory = "Spacing Combining";
+subCategory = Spacing;
 unicode = 3536;
 },
 {
@@ -6693,7 +6705,7 @@ width = 702;
 },
 {
 glyphname = "n-i-sinhala";
-lastChange = "2025-11-09 20:14:58 +0000";
+lastChange = "2025-11-10 04:56:31 +0000";
 layers = (
 {
 background = {
@@ -6738,7 +6750,7 @@ nodes = (
 );
 }
 );
-width = 815;
+width = 821;
 },
 {
 associatedMasterId = m01;
@@ -6830,7 +6842,7 @@ width = 3836;
 },
 {
 glyphname = mooniak.sinh;
-lastChange = "2025-11-09 20:31:41 +0000";
+lastChange = "2025-11-10 04:55:28 +0000";
 layers = (
 {
 background = {
