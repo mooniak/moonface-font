@@ -1,0 +1,84 @@
+{
+  "name": "Moonface",
+  "id": "moonface",
+  "type": "family",
+  "designer": [
+    "Mooniak"
+  ],
+  "scripts": [
+    "Latn"
+  ],
+  "description": "A Latin display typeface designed under the Mooniak foundry.",
+  "license": "OFL-1.1",
+  "channels": [
+    "release",
+    "dev",
+    "nightly"
+  ],
+  "versions_provider": "tags",
+  "repository": {
+    "url": "https://github.com/mooniak/moonface-font",
+    "type": "git"
+  },
+  "homepage_url": "https://src.mooniak.com/moonface-font/",
+  "issues_url": "https://github.com/mooniak/moonface-font/issues/",
+  "funding_url": "https://opencollective.com/akuruxyz/projects/lanka-font-library",
+  "foundry": {
+    "name": "mooniak",
+    "email": "hello@mooniak.com",
+    "url": "https://mooniak.com/",
+    "vendor_id": "MNIK"
+  },
+  "designers": [
+    {
+      "name": "Pathum Egodawatta",
+      "email": "pathum@mooniak.com",
+      "url": "https://pathumego.com/"
+    }
+  ],
+  "maintenance": {
+    "status": "experimental",
+    "comment": ""
+  },
+  "tools": "",
+  "progress": {
+    "design": 40,
+    "family_styles": 20,
+    "character_set": 30,
+    "drawing_quality": 40,
+    "spacing": 10,
+    "kerning": 0,
+    "hinting": 0,
+    "opentype_features": 10
+  },
+  "tags": {
+    "style": "display",
+    "contrast": "medium",
+    "width": "normal",
+    "body_height": "normal",
+    "intended_usage": "large",
+    "figures": "normal",
+    "languages": [
+      "en_US"
+    ],
+    "related_fonts": []
+  },
+  "display_texts": {
+    "en_US": "A display typeface from Mooniak.",
+    "si_LK": "",
+    "ta_LK": ""
+  },
+  "display_images": {
+    "banner": "",
+    "thumbnail": "",
+    "small": "",
+    "medium": "",
+    "large": ""
+  },
+  "links": {
+    "font_in_use": "",
+    "googlefonts": "",
+    "fontlibrary_org": "",
+    "typekit": ""
+  }
+}
