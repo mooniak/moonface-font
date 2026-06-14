@@ -63,22 +63,25 @@
     ],
     "related_fonts": []
   },
-  "display_texts": {
-    "en_US": "A display typeface from Mooniak.",
-    "si_LK": "",
-    "ta_LK": ""
-  },
-  "display_images": {
-    "banner": "",
-    "thumbnail": "",
-    "small": "",
-    "medium": "",
-    "large": ""
-  },
-  "links": {
-    "font_in_use": "",
-    "googlefonts": "",
-    "fontlibrary_org": "",
-    "typekit": ""
+  "directory": {
+    "listed": true,
+    "display_texts": {
+      "en_US": "A display typeface from Mooniak.",
+      "si_LK": "",
+      "ta_LK": ""
+    },
+    "display_images": {
+      "banner": "",
+      "thumbnail": "",
+      "small": "",
+      "medium": "",
+      "large": ""
+    },
+    "links": {
+      "font_in_use": "",
+      "googlefonts": "",
+      "fontlibrary_org": "",
+      "typekit": ""
+    }
   }
 }
