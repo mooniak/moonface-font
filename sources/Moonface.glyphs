@@ -1,19 +1,19 @@
 {
-.appVersion = "3436";
+.appVersion = "3513";
 .formatVersion = 3;
 DisplayStrings = (
 "/mooniak.sinh 
 
 මනයැක
 mooකනයකniak",
-"මන/n-i-sinhala ි යැක
+"මන/nI-sinhala ි යැක
 /mooniak.sinh 
 
 /mooniak.tri 
 
-/ma_uuMatra-tamil nநmி/na_iMatra-tamil inoயக்a
-/na_iMatra-tamil/mooniak.taml",
-"/ma_uuMatra-tamil நிiயக்ந
+/mUu-taml nநmி/nI-taml inoயக்a
+/nI-taml/mooniak.taml",
+"/mUu-taml நிiயக்ந
 /mooniak.taml",
 "ැ",
 "/mooniak.sinh",
@@ -32,15 +32,15 @@ name = Languagesystems;
 );
 features = (
 {
-code = "sub na-sinhala i-sign-sinhala by n-i-sinhala;
-sub ka-sinhala al-sign-sinhala by ka-al-sinhala;";
+code = "sub na-sinh isign-sinh by n-i-sinhala;
+sub ka-sinh virama-sinh by ka-al-sinhala;";
 tag = abvs;
 },
 {
-code = "sub ma-sinhala uu-sign-sinhala by m-uu-sinhala;
+code = "sub ma-sinh uusign-sinh by m-uu-sinhala;
 
-sub ma-tamil uuMatra-tamil by ma_uuMatra-tamil;
-sub na-tamil iMatra-tamil by na_iMatra-tamil;
+sub ma-taml uusign-taml by ma_uuMatra-tamil;
+sub na-taml isign-taml by na_iMatra-tamil;
 ";
 tag = blws;
 }
@@ -2006,7 +2006,7 @@ width = 600;
 unicode = 122;
 },
 {
-glyphname = "ka-sinhala";
+glyphname = "ka-sinh";
 lastChange = "2025-11-09 20:27:51 +0000";
 layers = (
 {
@@ -2552,7 +2552,7 @@ width = 830;
 unicode = 3482;
 },
 {
-glyphname = "na-sinhala";
+glyphname = "na-sinh";
 lastChange = "2025-11-10 05:09:57 +0000";
 layers = (
 {
@@ -3219,7 +3219,7 @@ width = 791;
 unicode = 3505;
 },
 {
-glyphname = "ma-sinhala";
+glyphname = "ma-sinh";
 lastChange = "2025-11-09 20:27:32 +0000";
 layers = (
 {
@@ -4115,7 +4115,7 @@ width = 696;
 unicode = 3512;
 },
 {
-glyphname = "ya-sinhala";
+glyphname = "ya-sinh";
 lastChange = "2025-11-09 20:27:39 +0000";
 layers = (
 {
@@ -4596,7 +4596,7 @@ width = 720;
 unicode = 3514;
 },
 {
-glyphname = "ka-tamil";
+glyphname = "ka-taml";
 lastChange = "2025-11-09 21:56:52 +0000";
 layers = (
 {
@@ -4837,7 +4837,7 @@ width = 722;
 unicode = 2965;
 },
 {
-glyphname = "na-tamil";
+glyphname = "na-taml";
 lastChange = "2025-11-09 21:54:30 +0000";
 layers = (
 {
@@ -5086,7 +5086,7 @@ width = 718;
 unicode = 2984;
 },
 {
-glyphname = "ma-tamil";
+glyphname = "ma-taml";
 lastChange = "2025-11-09 20:42:00 +0000";
 layers = (
 {
@@ -5141,7 +5141,7 @@ width = 666;
 unicode = 2990;
 },
 {
-glyphname = "ya-tamil";
+glyphname = "ya-taml";
 lastChange = "2025-11-10 04:43:49 +0000";
 layers = (
 {
@@ -5346,8 +5346,8 @@ width = 786;
 unicode = 2991;
 },
 {
-glyphname = "na_iMatra-tamil";
-lastChange = "2025-11-09 21:25:36 +0000";
+glyphname = "nI-taml";
+lastChange = "2026-07-13 14:08:57 +0000";
 layers = (
 {
 background = {
@@ -5355,7 +5355,7 @@ shapes = (
 {
 alignment = -1;
 pos = (304,0);
-ref = "iMatra-tamil";
+ref = "isign-taml";
 }
 );
 };
@@ -5363,12 +5363,12 @@ layerId = m01;
 shapes = (
 {
 locked = 1;
-ref = "na-tamil";
+ref = "na-taml";
 },
 {
 alignment = -1;
 pos = (304,0);
-ref = "iMatra-tamil";
+ref = "isign-taml";
 }
 );
 width = 927;
@@ -5376,8 +5376,8 @@ width = 927;
 );
 },
 {
-glyphname = "ma_uuMatra-tamil";
-lastChange = "2025-11-10 04:44:15 +0000";
+glyphname = "mUu-taml";
+lastChange = "2026-07-13 14:09:09 +0000";
 layers = (
 {
 background = {
@@ -6074,7 +6074,7 @@ unicode = 45;
 },
 {
 category = Mark;
-glyphname = "al-sign-sinhala";
+glyphname = "virama-sinh";
 lastChange = "2025-11-09 20:18:04 +0000";
 layers = (
 {
@@ -6106,7 +6106,7 @@ unicode = 3530;
 },
 {
 category = Mark;
-glyphname = "i-sign-sinhala";
+glyphname = "isign-sinh";
 lastChange = "2025-11-10 05:15:56 +0000";
 layers = (
 {
@@ -6263,7 +6263,7 @@ unicode = 3538;
 },
 {
 category = Mark;
-glyphname = "uu-sign-sinhala";
+glyphname = "uusign-sinh";
 lastChange = "2025-11-10 05:22:58 +0000";
 layers = (
 {
@@ -6368,7 +6368,7 @@ unicode = 3542;
 },
 {
 category = Mark;
-glyphname = "ae-sign-sinhala";
+glyphname = "aesign-sinh";
 lastChange = "2025-11-10 04:51:18 +0000";
 layers = (
 {
@@ -6517,7 +6517,7 @@ subCategory = Spacing;
 unicode = 3536;
 },
 {
-glyphname = "pulli-tamil";
+glyphname = "virama-taml";
 lastChange = "2025-11-09 21:57:32 +0000";
 layers = (
 {
@@ -6554,7 +6554,7 @@ unicode = 3021;
 },
 {
 category = Mark;
-glyphname = "iMatra-tamil";
+glyphname = "isign-taml";
 lastChange = "2025-11-09 21:59:25 +0000";
 layers = (
 {
@@ -6657,7 +6657,7 @@ subCategory = Spacing;
 unicode = 3007;
 },
 {
-glyphname = "uuMatra-tamil";
+glyphname = "uusign-taml";
 layers = (
 {
 layerId = m01;
@@ -6667,18 +6667,18 @@ width = 300;
 unicode = 3010;
 },
 {
-glyphname = "ka-al-sinhala";
-lastChange = "2025-11-09 20:03:01 +0000";
+glyphname = "k-sinh";
+lastChange = "2026-07-13 14:09:22 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-ref = "ka-sinhala";
+ref = "ka-sinh";
 },
 {
 pos = (564,0);
-ref = "al-sign-sinhala";
+ref = "virama-sinh";
 }
 );
 width = 870;
@@ -6686,18 +6686,18 @@ width = 870;
 );
 },
 {
-glyphname = "m-uu-sinhala";
-lastChange = "2025-11-09 20:03:01 +0000";
+glyphname = "mUu-sinh";
+lastChange = "2026-07-13 14:09:17 +0000";
 layers = (
 {
 layerId = m01;
 shapes = (
 {
-ref = "ma-sinhala";
+ref = "ma-sinh";
 },
 {
 pos = (37,0);
-ref = "uu-sign-sinhala";
+ref = "uusign-sinh";
 }
 );
 width = 702;
@@ -6705,8 +6705,8 @@ width = 702;
 );
 },
 {
-glyphname = "n-i-sinhala";
-lastChange = "2025-11-10 05:14:22 +0000";
+glyphname = "nI-sinh";
+lastChange = "2026-07-13 14:08:41 +0000";
 layers = (
 {
 background = {
@@ -6741,11 +6741,11 @@ nodes = (
 layerId = m01;
 shapes = (
 {
-ref = "na-sinhala";
+ref = "na-sinh";
 },
 {
 pos = (231,0);
-ref = "i-sign-sinhala";
+ref = "isign-sinh";
 }
 );
 width = 821;
@@ -6755,11 +6755,11 @@ associatedMasterId = m01;
 background = {
 shapes = (
 {
-ref = "na-sinhala";
+ref = "na-sinh";
 },
 {
 pos = (268,0);
-ref = "i-sign-sinhala";
+ref = "isign-sinh";
 }
 );
 };
@@ -6767,7 +6767,7 @@ layerId = "40BF09E6-1007-4536-B2BE-A34F352C3704";
 name = "10 Nov 25 at 01:42";
 shapes = (
 {
-ref = "na-sinhala";
+ref = "na-sinh";
 },
 {
 closed = 1;
@@ -7286,35 +7286,35 @@ layerId = m01;
 name = Regular;
 shapes = (
 {
-ref = "ma-sinhala";
+ref = "ma-sinh";
 },
 {
 pos = (37,0);
-ref = "uu-sign-sinhala";
+ref = "uusign-sinh";
 },
 {
 pos = (702,0);
-ref = "na-sinhala";
+ref = "na-sinh";
 },
 {
 pos = (933,0);
-ref = "i-sign-sinhala";
+ref = "isign-sinh";
 },
 {
 pos = (1523,0);
-ref = "ya-sinhala";
+ref = "ya-sinh";
 },
 {
 pos = (2281,0);
-ref = "ae-sign-sinhala";
+ref = "aesign-sinh";
 },
 {
 pos = (2604,0);
-ref = "ka-sinhala";
+ref = "ka-sinh";
 },
 {
 pos = (3168,0);
-ref = "al-sign-sinhala";
+ref = "virama-sinh";
 }
 );
 width = 3474;
@@ -10698,23 +10698,23 @@ nodes = (
 layerId = m01;
 shapes = (
 {
-ref = "ma_uuMatra-tamil";
+ref = "mUu-taml";
 },
 {
 pos = (1060,0);
-ref = "na_iMatra-tamil";
+ref = "nI-taml";
 },
 {
 pos = (1987,0);
-ref = "ya-tamil";
+ref = "ya-taml";
 },
 {
 pos = (2773,0);
-ref = "ka-tamil";
+ref = "ka-taml";
 },
 {
 pos = (3064,0);
-ref = "pulli-tamil";
+ref = "virama-taml";
 }
 );
 width = 3495;

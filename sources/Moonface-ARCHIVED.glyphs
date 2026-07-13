@@ -3380,7 +3380,7 @@ com.schriftgestaltung.Glyphs.ColorIndex = 0;
 };
 },
 {
-glyphname = tml_A;
+glyphname = "a-taml";
 lastChange = "2017-08-08 00:01:58 +0000";
 layers = (
 {
@@ -3396,7 +3396,7 @@ note = tml_A;
 unicode = 0B85;
 },
 {
-glyphname = tml_Aa;
+glyphname = "aa-taml";
 lastChange = "2017-08-08 00:01:59 +0000";
 layers = (
 {
@@ -3412,7 +3412,7 @@ note = tml_Aa;
 unicode = 0B86;
 },
 {
-glyphname = tml_I;
+glyphname = "i-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -3610,13 +3610,13 @@ note = tml_I;
 unicode = 0B87;
 },
 {
-glyphname = tml_Ii;
+glyphname = "ii-taml";
 lastChange = "2017-08-09 15:37:24 +0000";
 layers = (
 {
 components = (
 {
-name = tml_Ra.alt;
+name = "ra-taml.alt";
 }
 );
 layerId = "B24528F6-199A-4A7E-931E-F430756048DC";
@@ -3667,7 +3667,7 @@ note = tml_Ii;
 unicode = 0B88;
 },
 {
-glyphname = tml_U;
+glyphname = "u-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -3779,7 +3779,7 @@ note = tml_U;
 unicode = 0B89;
 },
 {
-glyphname = tml_Uu;
+glyphname = "uu-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -3968,7 +3968,7 @@ note = tml_Uu;
 unicode = 0B8A;
 },
 {
-glyphname = tml_E;
+glyphname = "e-taml";
 lastChange = "2017-08-08 00:00:50 +0000";
 layers = (
 {
@@ -4037,13 +4037,13 @@ note = tml_E;
 unicode = 0B8E;
 },
 {
-glyphname = tml_Ee;
+glyphname = "ee-taml";
 lastChange = "2017-08-26 22:06:29 +0000";
 layers = (
 {
 components = (
 {
-name = tml_E;
+name = "e-taml";
 }
 );
 layerId = "B24528F6-199A-4A7E-931E-F430756048DC";
@@ -4066,11 +4066,11 @@ width = 600;
 }
 );
 note = tml_Ee;
-rightMetricsKey = tml_E;
+rightMetricsKey = "e-taml";
 unicode = 0B8F;
 },
 {
-glyphname = tml_Ai;
+glyphname = "ai-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -4232,7 +4232,7 @@ note = tml_Ai;
 unicode = 0B90;
 },
 {
-glyphname = tml_O;
+glyphname = "o-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -4369,7 +4369,7 @@ note = tml_O;
 unicode = 0B92;
 },
 {
-glyphname = tml_Oo;
+glyphname = "oo-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -4540,7 +4540,7 @@ note = tml_Oo;
 unicode = 0B93;
 },
 {
-glyphname = tml_Au;
+glyphname = "au-taml";
 lastChange = "2017-08-07 23:58:39 +0000";
 layers = (
 {
@@ -4746,7 +4746,7 @@ note = tml_Au;
 unicode = 0B94;
 },
 {
-glyphname = tml_Ka;
+glyphname = "ka-taml";
 lastChange = "2017-08-07 23:31:23 +0000";
 layers = (
 {
@@ -4814,7 +4814,7 @@ note = tml_Ka;
 unicode = 0B95;
 },
 {
-glyphname = tml_Nga;
+glyphname = "nga-taml";
 lastChange = "2017-08-26 22:00:25 +0000";
 layers = (
 {
@@ -4873,7 +4873,7 @@ note = tml_Nga;
 unicode = 0B99;
 },
 {
-glyphname = tml_Ca;
+glyphname = "ca-taml";
 lastChange = "2017-08-26 22:03:21 +0000";
 layers = (
 {
@@ -4928,7 +4928,7 @@ note = tml_Ca;
 unicode = 0B9A;
 },
 {
-glyphname = tml_Ja;
+glyphname = "ja-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -5125,7 +5125,7 @@ note = tml_Ja;
 unicode = 0B9C;
 },
 {
-glyphname = tml_Nya;
+glyphname = "nya-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -5246,7 +5246,7 @@ note = tml_Nya;
 unicode = 0B9E;
 },
 {
-glyphname = tml_Tta;
+glyphname = "tta-taml";
 lastChange = "2017-08-26 22:03:09 +0000";
 layers = (
 {
@@ -5276,7 +5276,7 @@ note = tml_Tta;
 unicode = 0B9F;
 },
 {
-glyphname = tml_Nna;
+glyphname = "nna-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -5459,7 +5459,7 @@ note = tml_Nna;
 unicode = 0BA3;
 },
 {
-glyphname = tml_Ta;
+glyphname = "ta-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -5571,7 +5571,7 @@ note = tml_Ta;
 unicode = 0BA4;
 },
 {
-glyphname = tml_Na;
+glyphname = "na-taml";
 lastChange = "2017-08-07 23:30:20 +0000";
 layers = (
 {
@@ -5637,7 +5637,7 @@ note = tml_Na;
 unicode = 0BA8;
 },
 {
-glyphname = tml_Nnna;
+glyphname = "nna2-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -5763,7 +5763,7 @@ note = tml_Nnna;
 unicode = 0BA9;
 },
 {
-glyphname = tml_Pa;
+glyphname = "pa-taml";
 lastChange = "2017-08-26 22:05:14 +0000";
 layers = (
 {
@@ -5795,7 +5795,7 @@ note = tml_Pa;
 unicode = 0BAA;
 },
 {
-glyphname = tml_Ma;
+glyphname = "ma-taml";
 lastChange = "2017-08-26 22:06:46 +0000";
 layers = (
 {
@@ -5851,7 +5851,7 @@ note = tml_Ma;
 unicode = 0BAE;
 },
 {
-glyphname = tml_Ya;
+glyphname = "ya-taml";
 lastChange = "2017-08-26 22:05:59 +0000";
 layers = (
 {
@@ -5900,19 +5900,19 @@ layerId = "0EF112A6-69F8-47E9-9D72-C545F6D6A613";
 width = 600;
 }
 );
-leftMetricsKey = tml_Pa;
+leftMetricsKey = "pa-taml";
 note = tml_Ya;
-rightMetricsKey = tml_Pa;
+rightMetricsKey = "pa-taml";
 unicode = 0BAF;
 },
 {
-glyphname = tml_Ra;
+glyphname = "ra-taml";
 lastChange = "2017-08-08 00:03:57 +0000";
 layers = (
 {
 components = (
 {
-name = tml_Ra.alt;
+name = "ra-taml.alt";
 }
 );
 layerId = "B24528F6-199A-4A7E-931E-F430756048DC";
@@ -5938,7 +5938,7 @@ note = tml_Ra;
 unicode = 0BB0;
 },
 {
-glyphname = tml_Rra;
+glyphname = "rra-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -6027,7 +6027,7 @@ note = tml_Rra;
 unicode = 0BB1;
 },
 {
-glyphname = tml_La;
+glyphname = "la-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -6152,7 +6152,7 @@ note = tml_La;
 unicode = 0BB2;
 },
 {
-glyphname = tml_Lla;
+glyphname = "lla-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -6242,7 +6242,7 @@ note = tml_Lla;
 unicode = 0BB3;
 },
 {
-glyphname = tml_Llla;
+glyphname = "zha-taml";
 lastChange = "2017-08-26 21:58:59 +0000";
 layers = (
 {
@@ -6330,7 +6330,7 @@ note = tml_Llla;
 unicode = 0BB4;
 },
 {
-glyphname = tml_Va;
+glyphname = "va-taml";
 lastChange = "2017-09-05 07:17:53 +0000";
 layers = (
 {
@@ -6400,11 +6400,11 @@ width = 600;
 }
 );
 note = tml_Va;
-rightMetricsKey = "=tml_Pa";
+rightMetricsKey = "=pa-taml";
 unicode = 0BB5;
 },
 {
-glyphname = tml_Sha;
+glyphname = "sha-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -6490,7 +6490,7 @@ note = tml_Sha;
 unicode = 0BB6;
 },
 {
-glyphname = tml_Ssa;
+glyphname = "ssa-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -6640,7 +6640,7 @@ note = tml_Ssa;
 unicode = 0BB7;
 },
 {
-glyphname = tml_Sa;
+glyphname = "sa-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -6774,7 +6774,7 @@ note = tml_Sa;
 unicode = 0BB8;
 },
 {
-glyphname = tml_Ha;
+glyphname = "ha-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -6933,7 +6933,7 @@ note = tml_Ha;
 unicode = 0BB9;
 },
 {
-glyphname = tml_Om;
+glyphname = "om-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -7128,7 +7128,7 @@ note = tml_Om;
 unicode = 0BD0;
 },
 {
-glyphname = tml_Visarga;
+glyphname = "visargaya-taml";
 lastChange = "2017-08-07 23:54:18 +0000";
 layers = (
 {
@@ -7284,7 +7284,7 @@ note = tml_Visarga;
 unicode = 0B83;
 },
 {
-glyphname = tml_Ten;
+glyphname = "ten-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -7377,7 +7377,7 @@ note = tml_Ten;
 unicode = 0BF0;
 },
 {
-glyphname = tml_Hundred;
+glyphname = "hundred-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -7429,7 +7429,7 @@ note = tml_Hundred;
 unicode = 0BF1;
 },
 {
-glyphname = tml_Thousand;
+glyphname = "thousand-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -7586,7 +7586,7 @@ note = tml_Thousand;
 unicode = 0BF2;
 },
 {
-glyphname = tml_One;
+glyphname = "one-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -7691,7 +7691,7 @@ note = tml_One;
 unicode = 0BE7;
 },
 {
-glyphname = tml_Two;
+glyphname = "two-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -7805,7 +7805,7 @@ note = tml_Two;
 unicode = 0BE8;
 },
 {
-glyphname = tml_Three;
+glyphname = "three-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -7868,7 +7868,7 @@ note = tml_Three;
 unicode = 0BE9;
 },
 {
-glyphname = tml_Four;
+glyphname = "four-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -7952,7 +7952,7 @@ note = tml_Four;
 unicode = 0BEA;
 },
 {
-glyphname = tml_Five;
+glyphname = "five-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -8037,7 +8037,7 @@ note = tml_Five;
 unicode = 0BEB;
 },
 {
-glyphname = tml_Six;
+glyphname = "six-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -8145,7 +8145,7 @@ note = tml_Six;
 unicode = 0BEC;
 },
 {
-glyphname = tml_Seven;
+glyphname = "seven-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -8223,7 +8223,7 @@ note = tml_Seven;
 unicode = 0BED;
 },
 {
-glyphname = tml_Eight;
+glyphname = "eight-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -8350,7 +8350,7 @@ note = tml_Eight;
 unicode = 0BEE;
 },
 {
-glyphname = tml_Nine;
+glyphname = "nine-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -8629,7 +8629,7 @@ width = 414;
 unicode = 002D;
 },
 {
-glyphname = tml_Day;
+glyphname = "signday-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -8721,7 +8721,7 @@ note = tml_Day;
 unicode = 0BF3;
 },
 {
-glyphname = tml_Month;
+glyphname = "signmonth-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -8862,7 +8862,7 @@ note = tml_Month;
 unicode = 0BF4;
 },
 {
-glyphname = tml_Year;
+glyphname = "signyear-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -9044,7 +9044,7 @@ note = tml_Year;
 unicode = 0BF5;
 },
 {
-glyphname = tml_Debit;
+glyphname = "signdebit-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -9115,7 +9115,7 @@ note = tml_Debit;
 unicode = 0BF6;
 },
 {
-glyphname = tml_Credit;
+glyphname = "signcredit-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -9264,7 +9264,7 @@ note = tml_Credit;
 unicode = 0BF7;
 },
 {
-glyphname = tml_Above;
+glyphname = "signasabove-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -9458,7 +9458,7 @@ note = tml_Above;
 unicode = 0BF8;
 },
 {
-glyphname = tml_Number;
+glyphname = "signnumber-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -9596,7 +9596,7 @@ note = tml_Number;
 unicode = 0BFA;
 },
 {
-glyphname = tml_Rupee;
+glyphname = "indianrupee-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -9777,7 +9777,7 @@ width = 600;
 unicode = 003C;
 },
 {
-glyphname = "aeMatra-sinhala";
+glyphname = "aesign-sinh";
 lastChange = "2023-10-18 17:50:23 +0000";
 layers = (
 {
@@ -9860,7 +9860,7 @@ width = 313;
 unicode = 0DD0;
 },
 {
-glyphname = tml_MatraIi;
+glyphname = "iisign-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -9949,7 +9949,7 @@ note = tml_MatraIi;
 unicode = 0BC0;
 },
 {
-glyphname = tml_Virama;
+glyphname = "virama-taml";
 lastChange = "2017-08-26 21:59:30 +0000";
 layers = (
 {
@@ -9996,7 +9996,7 @@ note = tml_Virama;
 unicode = 0BCD;
 },
 {
-glyphname = tml_Anusvara;
+glyphname = "anusvaraya-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -10063,7 +10063,7 @@ note = tml_Anusvara;
 unicode = 0B82;
 },
 {
-glyphname = tml_MatraAa;
+glyphname = "aasign-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -10096,7 +10096,7 @@ note = tml_MatraAa;
 unicode = 0BBE;
 },
 {
-glyphname = tml_MatraI;
+glyphname = "isign-taml";
 lastChange = "2017-08-07 23:30:13 +0000";
 layers = (
 {
@@ -10141,7 +10141,7 @@ note = tml_MatraI;
 unicode = 0BBF;
 },
 {
-glyphname = tml_MatraU;
+glyphname = "usign-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -10211,7 +10211,7 @@ note = tml_MatraU;
 unicode = 0BC1;
 },
 {
-glyphname = tml_MatraUu;
+glyphname = "uusign-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -10306,7 +10306,7 @@ note = tml_MatraUu;
 unicode = 0BC2;
 },
 {
-glyphname = tml_MatraE;
+glyphname = "esign-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -10395,7 +10395,7 @@ note = tml_MatraE;
 unicode = 0BC6;
 },
 {
-glyphname = tml_MatraEe;
+glyphname = "eesign-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -10522,7 +10522,7 @@ note = tml_MatraEe;
 unicode = 0BC7;
 },
 {
-glyphname = tml_MatraAi;
+glyphname = "aisign-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -10652,7 +10652,7 @@ note = tml_MatraAi;
 unicode = 0BC8;
 },
 {
-glyphname = tml_MatraO;
+glyphname = "osign-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -10754,7 +10754,7 @@ note = tml_MatraO;
 unicode = 0BCA;
 },
 {
-glyphname = tml_MatraOo;
+glyphname = "oosign-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -10895,7 +10895,7 @@ note = tml_MatraOo;
 unicode = 0BCB;
 },
 {
-glyphname = tml_MatraAu;
+glyphname = "ausign-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -11054,7 +11054,7 @@ note = tml_MatraAu;
 unicode = 0BCC;
 },
 {
-glyphname = tml_AuLengthmark;
+glyphname = "aulengthmark-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -15078,7 +15078,7 @@ width = 705;
 );
 },
 {
-glyphname = tml_CU;
+glyphname = "cU-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -15163,7 +15163,7 @@ width = 600;
 note = tml_CU;
 },
 {
-glyphname = tml_CUu;
+glyphname = "cUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -15286,7 +15286,7 @@ width = 600;
 note = tml_CUu;
 },
 {
-glyphname = tml_KSsU;
+glyphname = "kSsU-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -15545,7 +15545,7 @@ width = 600;
 note = tml_KSsU;
 },
 {
-glyphname = tml_KSsUu;
+glyphname = "kSsUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -15826,7 +15826,7 @@ width = 600;
 note = tml_KSsUu;
 },
 {
-glyphname = tml_KSsa;
+glyphname = "kSsa-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -16034,7 +16034,7 @@ width = 600;
 note = tml_KSsa;
 },
 {
-glyphname = tml_KU;
+glyphname = "kU-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -16145,7 +16145,7 @@ width = 600;
 note = tml_KU;
 },
 {
-glyphname = tml_KUu;
+glyphname = "kUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -16295,7 +16295,7 @@ width = 600;
 note = tml_KUu;
 },
 {
-glyphname = tml_LU;
+glyphname = "lU-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -16464,7 +16464,7 @@ width = 600;
 note = tml_LU;
 },
 {
-glyphname = tml_LUu;
+glyphname = "lUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -16639,7 +16639,7 @@ width = 600;
 note = tml_LUu;
 },
 {
-glyphname = tml_LlU;
+glyphname = "llU-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -16766,7 +16766,7 @@ width = 600;
 note = tml_LlU;
 },
 {
-glyphname = tml_LlUu;
+glyphname = "llUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -16940,7 +16940,7 @@ width = 600;
 note = tml_LlUu;
 },
 {
-glyphname = tml_LllU;
+glyphname = "zhU-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -17043,7 +17043,7 @@ width = 600;
 note = tml_LllU;
 },
 {
-glyphname = tml_LllUu;
+glyphname = "zhUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -17191,7 +17191,7 @@ width = 600;
 note = tml_LllUu;
 },
 {
-glyphname = tml_MU;
+glyphname = "mU-taml";
 lastChange = "2017-08-26 21:55:41 +0000";
 layers = (
 {
@@ -17271,7 +17271,7 @@ width = 600;
 note = tml_MU;
 },
 {
-glyphname = tml_MUu;
+glyphname = "mUu-taml";
 lastChange = "2017-08-07 23:53:59 +0000";
 layers = (
 {
@@ -17369,7 +17369,7 @@ width = 600;
 note = tml_MUu;
 },
 {
-glyphname = tml_NU;
+glyphname = "nU-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -17533,7 +17533,7 @@ width = 600;
 note = tml_NU;
 },
 {
-glyphname = tml_NUu;
+glyphname = "nUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -17715,7 +17715,7 @@ width = 600;
 note = tml_NUu;
 },
 {
-glyphname = tml_NgUu;
+glyphname = "ngUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -17824,7 +17824,7 @@ width = 600;
 note = tml_NgUu;
 },
 {
-glyphname = tml_NnU;
+glyphname = "nnU-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -17917,7 +17917,7 @@ width = 600;
 note = tml_NnU;
 },
 {
-glyphname = tml_NnUu;
+glyphname = "nnUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -18016,7 +18016,7 @@ width = 600;
 note = tml_NnUu;
 },
 {
-glyphname = tml_NnnU;
+glyphname = "nna2-u-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -18245,7 +18245,7 @@ width = 600;
 note = tml_NnnU;
 },
 {
-glyphname = tml_NnnUu;
+glyphname = "nna2-uu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -18477,7 +18477,7 @@ width = 600;
 note = tml_NnnUu;
 },
 {
-glyphname = tml_NyU;
+glyphname = "nyU-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -18611,7 +18611,7 @@ width = 600;
 note = tml_NyU;
 },
 {
-glyphname = tml_NyUu;
+glyphname = "nyUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -18751,7 +18751,7 @@ width = 600;
 note = tml_NyUu;
 },
 {
-glyphname = tml_PUu;
+glyphname = "pUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -18831,7 +18831,7 @@ width = 600;
 note = tml_PUu;
 },
 {
-glyphname = tml_RU;
+glyphname = "rU-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -18904,7 +18904,7 @@ width = 600;
 note = tml_RU;
 },
 {
-glyphname = tml_RUu;
+glyphname = "rUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -19021,7 +19021,7 @@ width = 600;
 note = tml_RUu;
 },
 {
-glyphname = tml_RrU;
+glyphname = "rrU-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -19124,7 +19124,7 @@ width = 600;
 note = tml_RrU;
 },
 {
-glyphname = tml_RrUu;
+glyphname = "rrUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -19230,7 +19230,7 @@ width = 600;
 note = tml_RrUu;
 },
 {
-glyphname = tml_SI;
+glyphname = "sI-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -19390,7 +19390,7 @@ width = 600;
 note = tml_SI;
 },
 {
-glyphname = tml_SIi;
+glyphname = "sIi-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -19588,7 +19588,7 @@ width = 600;
 note = tml_SIi;
 },
 {
-glyphname = tml_SU;
+glyphname = "sU-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -19764,7 +19764,7 @@ width = 600;
 note = tml_SU;
 },
 {
-glyphname = tml_SUu;
+glyphname = "sUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -19962,7 +19962,7 @@ width = 600;
 note = tml_SUu;
 },
 {
-glyphname = tml_Shree;
+glyphname = "shree-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -20127,7 +20127,7 @@ width = 600;
 note = tml_Shree;
 },
 {
-glyphname = tml_SsU;
+glyphname = "ssU-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -20321,7 +20321,7 @@ width = 600;
 note = tml_SsU;
 },
 {
-glyphname = tml_SsUu;
+glyphname = "ssUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -20543,7 +20543,7 @@ width = 600;
 note = tml_SsUu;
 },
 {
-glyphname = tml_TU;
+glyphname = "tU-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -20681,7 +20681,7 @@ width = 600;
 note = tml_TU;
 },
 {
-glyphname = tml_TUu;
+glyphname = "tUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -20825,7 +20825,7 @@ width = 600;
 note = tml_TUu;
 },
 {
-glyphname = tml_TtI;
+glyphname = "ttI-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -20896,7 +20896,7 @@ width = 600;
 note = tml_TtI;
 },
 {
-glyphname = tml_TtIi;
+glyphname = "ttIi-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -20981,7 +20981,7 @@ width = 600;
 note = tml_TtIi;
 },
 {
-glyphname = tml_TtU;
+glyphname = "ttU-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -21056,7 +21056,7 @@ width = 600;
 note = tml_TtU;
 },
 {
-glyphname = tml_TtUu;
+glyphname = "ttUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -21176,7 +21176,7 @@ width = 600;
 note = tml_TtUu;
 },
 {
-glyphname = tml_VUu;
+glyphname = "vUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -21314,7 +21314,7 @@ width = 600;
 note = tml_VUu;
 },
 {
-glyphname = tml_YUu;
+glyphname = "yUu-taml";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -31728,7 +31728,7 @@ width = 2667;
 );
 },
 {
-glyphname = tml_MatraAi.alt;
+glyphname = "aisign-taml.alt";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -31838,7 +31838,7 @@ width = 600;
 note = tml_MatraAi.alt;
 },
 {
-glyphname = tml_MatraI.alt1;
+glyphname = "isign-taml.alt1";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -31894,7 +31894,7 @@ width = 600;
 note = tml_MatraI.alt1;
 },
 {
-glyphname = tml_MatraI.alt2;
+glyphname = "isign-taml.alt2";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -31950,7 +31950,7 @@ width = 600;
 note = tml_MatraI.alt2;
 },
 {
-glyphname = tml_MatraI.alt3;
+glyphname = "isign-taml.alt3";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -32003,7 +32003,7 @@ width = 600;
 note = tml_MatraI.alt3;
 },
 {
-glyphname = tml_MatraI.alt4;
+glyphname = "isign-taml.alt4";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -32059,7 +32059,7 @@ width = 600;
 note = tml_MatraI.alt4;
 },
 {
-glyphname = tml_MatraI.alt5;
+glyphname = "isign-taml.alt5";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -32109,7 +32109,7 @@ width = 600;
 note = tml_MatraI.alt5;
 },
 {
-glyphname = tml_MatraI.alt6;
+glyphname = "isign-taml.alt6";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -32156,7 +32156,7 @@ width = 600;
 note = tml_MatraI.alt6;
 },
 {
-glyphname = tml_MatraI.alt7;
+glyphname = "isign-taml.alt7";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -32212,7 +32212,7 @@ width = 600;
 note = tml_MatraI.alt7;
 },
 {
-glyphname = tml_MatraI.alt8;
+glyphname = "isign-taml.alt8";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -32265,7 +32265,7 @@ width = 600;
 note = tml_MatraI.alt8;
 },
 {
-glyphname = tml_MatraI.stylalt1;
+glyphname = "isign-taml.stylalt1";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -32315,7 +32315,7 @@ width = 600;
 note = tml_MatraI.stylalt1;
 },
 {
-glyphname = tml_MatraIi.alt1;
+glyphname = "iisign-taml.alt1";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -32404,7 +32404,7 @@ width = 600;
 note = tml_MatraIi.alt1;
 },
 {
-glyphname = tml_MatraIi.alt2;
+glyphname = "iisign-taml.alt2";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -32495,7 +32495,7 @@ width = 600;
 note = tml_MatraIi.alt2;
 },
 {
-glyphname = tml_MatraIi.alt3;
+glyphname = "iisign-taml.alt3";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -32584,7 +32584,7 @@ width = 600;
 note = tml_MatraIi.alt3;
 },
 {
-glyphname = tml_MatraIi.stylalt1;
+glyphname = "iisign-taml.stylalt1";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -32681,7 +32681,7 @@ width = 600;
 note = tml_MatraIi.stylalt1;
 },
 {
-glyphname = tml_MatraU.alt1;
+glyphname = "usign-taml.alt1";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -32707,7 +32707,7 @@ width = 600;
 note = tml_MatraU.alt1;
 },
 {
-glyphname = tml_NnAa.alt;
+glyphname = "nnAa-taml.alt";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -32886,7 +32886,7 @@ width = 600;
 note = tml_NnAa.alt;
 },
 {
-glyphname = tml_NnnAa.alt;
+glyphname = "nna2-aa-taml.alt";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -33124,7 +33124,7 @@ width = 600;
 note = tml_NnnAa.alt;
 },
 {
-glyphname = tml_RI.alt;
+glyphname = "rI-taml.alt";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -33184,7 +33184,7 @@ width = 600;
 note = tml_RI.alt;
 },
 {
-glyphname = tml_RIi.alt;
+glyphname = "rIi-taml.alt";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
@@ -33279,7 +33279,7 @@ width = 600;
 note = tml_RIi.alt;
 },
 {
-glyphname = tml_Ra.alt;
+glyphname = "ra-taml.alt";
 lastChange = "2017-08-26 22:06:05 +0000";
 layers = (
 {
@@ -33313,7 +33313,7 @@ width = 600;
 note = tml_Ra.alt;
 },
 {
-glyphname = tml_RrAa.alt;
+glyphname = "rrAa-taml.alt";
 lastChange = "2017-08-09 10:52:40 +0000";
 layers = (
 {
