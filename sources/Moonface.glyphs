@@ -19,6 +19,27 @@ mooකනයකniak",
 "/mooniak.sinh",
 "ූ/mooniak.sinh/mooniak.tri"
 );
+axes = (
+{
+name = Weight;
+tag = wght;
+},
+{
+name = Width;
+tag = wdth;
+}
+);
+customParameters = (
+{
+name = vendorID;
+value = MNIK;
+},
+{
+name = fsType;
+value = (
+);
+}
+);
 date = "2024-02-02 12:45:14 +0000";
 familyName = Moonface;
 featurePrefixes = (
@@ -47,6 +68,10 @@ tag = blws;
 );
 fontMaster = (
 {
+axesValues = (
+100,
+100
+);
 id = m01;
 metricValues = (
 {
@@ -69,8 +94,10 @@ over = -12;
 pos = -200;
 },
 {
+over = 0;
 },
 {
+over = 0;
 pos = 500;
 },
 {
@@ -3592,7 +3619,6 @@ nodes = (
 );
 };
 layerId = m01;
-name = Regular;
 shapes = (
 {
 closed = 1;
@@ -6476,7 +6502,6 @@ nodes = (
 );
 };
 layerId = m01;
-name = Regular;
 shapes = (
 {
 closed = 1;
@@ -7283,7 +7308,6 @@ nodes = (
 );
 };
 layerId = m01;
-name = Regular;
 shapes = (
 {
 ref = "ma-sinh";
@@ -11314,8 +11338,95 @@ ref = mooniak.taml;
 width = 3850;
 }
 );
+},
+{
+glyphname = nbspace;
+layers = (
+{
+layerId = m01;
+width = 200;
+},
+{
+associatedMasterId = "";
+layerId = "8F886E21-20D6-44F6-807D-12D49AB879E5";
+width = 200;
 }
 );
+unicode = 160;
+},
+{
+glyphname = CR;
+layers = (
+{
+layerId = m01;
+width = 0;
+}
+);
+unicode = 13;
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = m01;
+width = 0;
+}
+);
+unicode = 0;
+},
+{
+glyphname = mooniak;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(692.6,656,cs),
+(692.6,719.2,o),
+(743.8,770.4,o),
+(807,770.4,cs),
+(870.2,770.4,o),
+(921.4,719.2,o),
+(921.4,656,cs),
+(921.4,592.8,o),
+(870.2,541.6,o),
+(807,541.6,cs),
+(743.8,541.6,o),
+(692.6,592.8,o)
+);
+},
+{
+closed = 1;
+nodes = (
+(30.4,371,cs),
+(30.4,544.8,o),
+(171.2,685.6,o),
+(345,685.6,cs),
+(518.8,685.6,o),
+(659.6,544.8,o),
+(659.6,371,cs),
+(659.6,197.2,o),
+(518.8,56.4,o),
+(345,56.4,cs),
+(171.2,56.4,o),
+(30.4,197.2,o)
+);
+}
+);
+width = 952;
+}
+);
+}
+);
+instances = (
+{
+name = Regular;
+}
+);
+kerningLTR = {
+};
 metrics = (
 {
 type = ascender;
@@ -11343,6 +11454,18 @@ name = "pa Height";
 filter = "script == \"tamil\"";
 name = "pa Height";
 }
+);
+properties = (
+{
+key = designerURL;
+value = "http://www.mooniak.com/";
+},
+{
+key = manufacturers;
+value = mooniak;
+}
+);
+stems = (
 );
 unitsPerEm = 1000;
 versionMajor = 1;
