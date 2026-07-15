@@ -62,35 +62,35 @@ build instance_ufos/Moonface-Regular.ufo.json: instantiateUfo Moonface.glyphs
 build ../fonts/webfonts/Moonface-Regular.woff2: compress $
     ../fonts/ttf/Moonface-Regular.ttf
   operation = compress
-# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpyk_2ehlf
-build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpyk_2ehlf: $
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpayjykefo
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpayjykefo: $
     buildTTF instance_ufos/Moonface-Regular.ufo.json
   operation = buildTTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp9whoth7f
-build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp9whoth7f: $
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpnlzpfgkz
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpnlzpfgkz: $
     buildOTF instance_ufos/Moonface-Regular.ufo.json
   operation = buildOTF
   args = --filter ...  --filter FlattenComponentsFilter --filter $
       DecomposeTransformedComponentsFilter
   fontmake_type = -u
   fontmake_args =  --verbose WARNING 
-# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp33yfd9vg
-build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp33yfd9vg: $
-    autohint /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpyk_2ehlf
+# Generating /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpfawj41sm
+build /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpfawj41sm: $
+    autohint /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpayjykefo
   operation = autohint
   args = --fail-ok 
 # Generating ../fonts/ttf/Moonface-Regular.ttf
 build ../fonts/ttf/Moonface-Regular.ttf: fix $
-    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp33yfd9vg
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpfawj41sm
   operation = fix
   args = 
 # Generating ../fonts/otf/Moonface-Regular.otf
 build ../fonts/otf/Moonface-Regular.otf: fix $
-    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmp9whoth7f
+    /var/folders/kq/qnbdv5c51zbc56xfr_dtzs680000gn/T/tmpnlzpfgkz
   operation = fix
   args = 
 default ../fonts/webfonts/Moonface-Regular.woff2 $
