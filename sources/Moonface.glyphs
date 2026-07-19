@@ -52,19 +52,6 @@ name = Languagesystems;
 }
 );
 features = (
-{
-code = "sub na-sinh isign-sinh by n-i-sinhala;
-sub ka-sinh virama-sinh by ka-al-sinhala;";
-tag = abvs;
-},
-{
-code = "sub ma-sinh uusign-sinh by m-uu-sinhala;
-
-sub ma-taml uusign-taml by ma_uuMatra-tamil;
-sub na-taml isign-taml by na_iMatra-tamil;
-";
-tag = blws;
-}
 );
 fontMaster = (
 {
