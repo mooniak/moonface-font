@@ -3,7 +3,7 @@
 [![Build][badge-build]][link-build]
 [![Fontspector QA][badge-qa]][link-qa]
 [![Release][badge-release]][link-release]
-[![License: OFL 1.1](https://img.shields.io/badge/license-OFL--1.1-green)](https://openfontlicense.org)
+[![License: OFL 1.1](https://img.shields.io/badge/license-OFL--1.1-green)](OFL.txt)
 
 [badge-build]: https://github.com/mooniak/moonface-font/actions/workflows/build.yaml/badge.svg?branch=dev
 [badge-qa]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fsrc.mooniak.com%2Fmoonface-font%2Fbuild.json&query=%24.qa.pass_rate&suffix=%25&label=fontspector%20QA%20(dev%20build)&color=informational
@@ -32,4 +32,4 @@ QA reports and proofs are published at https://src.mooniak.com/moonface-font/.
 ## License
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-The license text and FAQ are at https://openfontlicense.org. Note: the `LICENSE` file in this repository is still the GPLv3 text from the original template and needs to be replaced with `OFL.txt`.
+The license text is in [OFL.txt](OFL.txt); a FAQ is at https://openfontlicense.org.
